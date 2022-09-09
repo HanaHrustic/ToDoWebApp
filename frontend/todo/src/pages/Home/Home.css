@@ -1,0 +1,9 @@
+.todos{
+    gap: 1vw;
+    padding: 10px;
+}
+
+.todo{
+    width: 100%;
+    min-height: 80px;
+}

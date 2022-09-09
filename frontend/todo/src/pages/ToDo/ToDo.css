@@ -1,0 +1,10 @@
+.card{
+    background: linear-gradient(90deg, rgba(95, 152, 67, 0.3) 0%, rgba(95, 152, 67, 0.061) 100%);
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.box{
+    width: 90%;
+    overflow-wrap: break-word;
+}
